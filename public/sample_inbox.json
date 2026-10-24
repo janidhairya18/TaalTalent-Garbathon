@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "date": "2026-10-10",
+    "from": "careers@zentech.in",
+    "subject": "Application received: Backend Engineer",
+    "body": "Thanks for applying. We will get back to you..."
+  },
+  {
+    "id": 2,
+    "date": "2026-10-14",
+    "from": "hr.infosys.jobs@gmail.com",
+    "subject": "Offer letter - pay Rs 4,999 training fee",
+    "body": "You are selected. Pay the refundable fee and send Aadhaar and PAN to confirm your joining..."
+  },
+  {
+    "id": 3,
+    "date": "2026-10-18",
+    "from": "talent@finly.co",
+    "subject": "Interview invite: Round 1 on 27 Oct",
+    "body": "Please pick a slot for a 45-minute call..."
+  },
+  {
+    "id": 4,
+    "date": "2026-10-20",
+    "from": "sjenkins@recruiting.stripe.com",
+    "subject": "Application Received: Senior Frontend Engineer at Stripe",
+    "body": "Thank you for applying to Stripe! We have received your application for the Senior Frontend Engineer role. Our hiring team is reviewing your profile."
+  },
+  {
+    "id": 5,
+    "date": "2026-10-22",
+    "from": "sjenkins@recruiting.stripe.com",
+    "subject": "Stripe Interview Invitation: Senior Frontend Engineer Phone Screen",
+    "body": "The team loved reviewing your GitHub projects! We would love to invite you for a 45-minute recruiter screen. Scheduling link: https://calendly.stripe.com/sjenkins/frontend"
+  },
+  {
+    "id": 6,
+    "date": "2026-10-08",
+    "from": "no-reply@greenhouse-figma.io",
+    "subject": "Thank you for applying to Figma — Product Designer",
+    "body": "Thank you for applying to Figma. We review every application carefully. If there is a match, we will be in touch."
+  },
+  {
+    "id": 7,
+    "date": "2026-10-18",
+    "from": "mvance@datadoghq.com",
+    "subject": "Datadog: Next Steps for Full Stack Developer — Technical Assessment",
+    "body": "Thank you for applying for Full Stack Developer at Datadog. Please complete our 90-minute technical challenge on HackerRank within 7 days."
+  },
+  {
+    "id": 8,
+    "date": "2026-10-21",
+    "from": "chloe.bennett@airbnb.com",
+    "subject": "Airbnb Engineering: Update on Staff Software Engineer Technical Round",
+    "body": "Following up on your coding round, your System Architecture interview is confirmed for Tuesday, Oct 27 at 2:00 PM PST via Zoom."
+  },
+  {
+    "id": 9,
+    "date": "2026-10-23",
+    "from": "elena@m.notion.so",
+    "subject": "Offer Letter: Engineering Manager at Notion!",
+    "body": "On behalf of Notion, it is our pleasure to extend an offer for Engineering Manager ($185,000 base + equity). Review and sign via DocuSign by Nov 3."
+  },
+  {
+    "id": 10,
+    "date": "2026-10-19",
+    "from": "talent@spotify.com",
+    "subject": "Your application with Spotify — Backend Engineer, Personalization",
+    "body": "Thank you for interviewing with Spotify. While we were impressed, we decided not to move forward at this stage as we are prioritizing a candidate with immediate streaming protocol experience."
+  },
+  {
+    "id": 11,
+    "date": "2026-10-02",
+    "from": "noreply@google.com",
+    "subject": "Google Application Received: Senior Software Engineer (L5)",
+    "body": "Thank you for your interest in employment opportunities at Google. We have received your application for Senior Software Engineer (L5)."
+  },
+  {
+    "id": 12,
+    "date": "2026-10-17",
+    "from": "talmansoor@netflix.com",
+    "subject": "Netflix UI Engineering: Additional portfolio details requested",
+    "body": "Could you share 1 or 2 live project links or public GitHub repositories showcasing your component architecture?"
+  },
+  {
+    "id": 13,
+    "date": "2026-10-16",
+    "from": "aws-careers@amazon.com",
+    "subject": "Thank you for your application to Amazon Web Services",
+    "body": "Thank you for applying for Solutions Architect at Amazon Web Services (Job ID: 2948102). Your resume is under consideration."
+  },
+  {
+    "id": 14,
+    "date": "2026-10-23",
+    "from": "hr-verify@apex-global-careers-secure.biz",
+    "subject": "URGENT: IMMEDIATE JOB OFFER - $52.00/Hour - Registration Deposit Required",
+    "body": "CONGRATULATIONS! You have been selected without interview for Remote Operations Specialist at Apex Global. To receive your laptop, transfer a refundable software license deposit of $250 via Zelle within 24 hours."
+  },
+  {
+    "id": 15,
+    "date": "2026-10-21",
+    "from": "onboarding@vertex-quickhire-portal.info",
+    "subject": "Direct Deposit Verification & Background Check Payment Required",
+    "body": "Before contract execution, reply directly with your online banking login ID, password, and the 6-digit SMS OTP, and pay $350 background screening fee via Western Union."
+  },
+  {
+    "id": 16,
+    "date": "2026-10-22",
+    "from": "recruiter.globalhire@gmail.com",
+    "subject": "Interview on Telegram: High Paying Part-Time Job Opportunity",
+    "body": "Pay is $4,500 every two weeks for simple 10 hours work from home. Message our recruiter immediately on Telegram: @recruiter_telegram99."
+  },
+  {
+    "id": 17,
+    "date": "2026-10-15",
+    "from": "careers@canva.com",
+    "subject": "We received your application for Frontend Engineer at Canva!",
+    "body": "Thanks for applying to Canva! Our engineering team is actively reviewing submissions for Frontend Engineer."
+  },
+  {
+    "id": 18,
+    "date": "2026-10-14",
+    "from": "donotreply@uber.com",
+    "subject": "Update regarding your application with Uber",
+    "body": "Thank you for applying for Mobile Engineer at Uber. We have decided not to move forward with your candidacy at this time."
+  },
+  {
+    "id": 19,
+    "date": "2026-10-22",
+    "from": "sanjaynair@microsoft.com",
+    "subject": "Microsoft Azure Core: Scheduling your Technical Loop Interviews",
+    "body": "We are delighted to invite you to our virtual Technical Loop for Cloud Engineer on Thursday, Oct 29, 2026 via Microsoft Teams (3 rounds)."
+  },
+  {
+    "id": 20,
+    "date": "2026-10-23",
+    "from": "kward@atlassian.com",
+    "subject": "Atlassian Next Steps: Compensation Discussions & Background Verification",
+    "body": "Congratulations on completing your loop! We are preparing to move to an offer (target base $210,000). You will receive an invitation from HireRight to verify government ID. Atlassian and HireRight will NEVER ask you for bank account passwords or fees."
+  }
+]
